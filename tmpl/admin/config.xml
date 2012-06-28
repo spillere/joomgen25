@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <fieldset name="bar" label="bar label" description="bar description">
+        <field name="foo" type="radio" label="foo label" description="foo description" default="0">
+            <option value="0">Zero</option>
+            <option value="1">One</option>
+        </field>
+    </fieldset>
+</config>

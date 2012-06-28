@@ -1,0 +1,16 @@
+name: Plano Basico Pagina Simples
+identifier: Basico
+component: com_ps_basico
+version: 1.0.0
+date: Feb 2012
+author:
+    name: Rodrigo Spillere - JetWorks
+    email: rodrigo@jetworks.com.br
+    url: http://jetworks.com.br
+copyright: 2010 JetWorks. All rights reserved.
+license: GNU General Public License
+description: Component description
+default_language: pt-BR
+database:
+    engine: MyISAM
+    default_charset: utf8

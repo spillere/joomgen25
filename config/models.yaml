@@ -1,0 +1,29 @@
+dados:
+    nome: string
+    cep: string
+    endereco: string
+    cidade: string
+    uf: string
+    complemento: string
+    cnpj: string
+    telefones: string
+    email: string
+    email_cobranca: string
+    dominio: string
+    nome_do_site: string
+    logo: string
+
+templates: 
+    nome: string
+    imagem: string
+    preco: string
+    demo: string
+
+adwords:
+    plano: string
+    onde_anunciar: string
+    palavras_chaves: string
+    dados_google: string
+    produtos_servicos: string
+    vantagens: string
+    obs_google: string
